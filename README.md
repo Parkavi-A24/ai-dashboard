@@ -1,3 +1,6 @@
+README
+🧠 AI Learning Intelligence Dashboard
+
 # Project Overview
 This project is an AI dashboard designed to streamline the integration and management of AI tools and data visualization, empowering users to achieve effective analysis and insights.
 
